@@ -19,11 +19,11 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MISIKIRA&theme=algolia" alt="candida18" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misikir21&theme=algolia" alt="candida18" /></p>
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Tech Stack
 
 <p align="left"> 
   &emsp; 
@@ -83,29 +83,6 @@ streak
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
  &emsp; 
 </p>
-
-<br/>
-
-## 📊 Github Stats (Expand to View)
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/misikir21"><img align="center" src="https://github-readme-stats.vercel.app/api?username=misikir2&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
-  </p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/misikira"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=misikir21&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 <br/>
 
