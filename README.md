@@ -19,7 +19,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misikir21&theme=algolia" alt="candida18" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=misikir21)](https://git.io/streak-stats)
 
 ## 🛠️ My Skills
 
