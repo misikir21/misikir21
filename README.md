@@ -4,7 +4,7 @@
  <a href="https://github.com/misikira/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Engineer;Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">A passionate full-stack Enginner  from Ethiopia.</h4>
+<h4 align="center">A passionate full-stack Engineer  from Ethiopia.</h4>
 <br>
 👨🏻‍💻 &nbsp;About Me:
 
@@ -18,7 +18,9 @@
 <br />
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=misikir21)](https://github-readme-stats.vercel.app)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=arasgungore-CV)](https://github.com/arasgungore/arasgungore-CV)
+&nbsp; &nbsp;
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=arasgungore.github.io)](https://github.com/arasgungore/arasgungore.github.io)
 
 ## 🛠️ My Skills
 
