@@ -16,9 +16,10 @@
 <p>🤝 &nbsp; I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
 
 <br />
-## 🔥 Streak Stats
+🔥 Streak Stats
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=misikir21](https://git.io/streak-stats)
+
 
 ## 🛠️ My Skills
 
