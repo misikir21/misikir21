@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Misikir Teka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/misikira/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Engineer;Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/misikir21/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Engineer;Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
 <h4 align="center">A passionate full-stack Engineer  from Ethiopia.</h4>
@@ -18,7 +18,7 @@
 <br />
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=misiiir21)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=misikir21)](https://git.io/streak-stats)
 
 ## 🛠️ My Skills
 
