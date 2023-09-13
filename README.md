@@ -17,7 +17,8 @@
 
 <br />
 ##🔥 Streak Stats
- ![GitHub Streak](https://streak-stats.demolab.com/?user=misikir21](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=misikir21"/></a>
 
 
 ## 🛠️ My Skills
