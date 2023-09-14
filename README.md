@@ -18,7 +18,7 @@
 <br />
 🔥 Streak Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=misikir21"/></a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=misikir21&theme=light&hide_border=false)<br/>
 
 Frontend
 
