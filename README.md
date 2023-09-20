@@ -18,9 +18,9 @@
 <br />
 🔥 Streak Stats
 
-![](https://github-readme-stats.vercel.app/api?username=misikir21&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=misikir21&theme=react&hide_border=false)<br/>
-
+![](https://github-readme-stats.vercel.app/api?username=wacoo&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wacoo&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wacoo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 Frontend
 
