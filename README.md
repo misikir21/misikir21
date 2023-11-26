@@ -10,7 +10,7 @@
 
 <p>👋 &nbsp;Hi there! I'm Misikir Teka, a Fullstack Engineer</p>
 <p>🔍 &nbsp; I'm actively seeking roles as a Software Developer, with a focus on front end </p>
-<p>🚀 &nbsp; My technical skillset includes JavaScript, CSS, HTML, and Ruby on Rails, and I'm passionate about using these tools to solve complex problems in the software industry.</p>
+<p>🚀 &nbsp; My technical skillset includes JavaScript, CSS, HTML, and I'm passionate about using these tools to solve complex problems in the software industry.</p>
 <p>🌱 &nbsp;Currently, I'm studying</p>
 <p>💼 &nbsp; In the past, I used to work as a manager and webmaster.</p>
 <p>🤝 &nbsp; I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
