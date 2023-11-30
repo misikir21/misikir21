@@ -62,7 +62,7 @@ Frontend
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Let's get Connected 
 
 <p align="center">
   <a href="https://misikir21.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
